@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">OlinGetsWhacky</string>
+    <string name="get_photo">GetPhoto</string>
 </resources>
